@@ -1,0 +1,7 @@
+selenium
+webdriver-manager
+beautifulsoup4
+requests
+discord.py
+pyqt5
+pyinstaller 

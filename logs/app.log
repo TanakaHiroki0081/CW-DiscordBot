@@ -1,0 +1,1087 @@
+ 2025-08-19 02:14:32,279 INFO ====== WebDriver manager ======
+2025-08-19 02:14:32,754 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:14:33,617 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:14:34,177 INFO There is no [win64] chromedriver "139.0.7258.68" for browser google-chrome "139.0.7258" in cache
+2025-08-19 02:14:34,178 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:14:35,788 INFO WebDriver version 139.0.7258.68 selected
+2025-08-19 02:14:35,791 INFO Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/139.0.7258.68/win32/chromedriver-win32.zip
+2025-08-19 02:14:35,791 INFO About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/139.0.7258.68/win32/chromedriver-win32.zip
+2025-08-19 02:14:36,979 INFO Driver downloading response is 200
+2025-08-19 02:15:09,475 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:15:10,138 INFO Driver has been saved in cache [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68]
+2025-08-19 02:15:10,140 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 02:17:10,209 INFO ====== WebDriver manager ======
+2025-08-19 02:17:10,691 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:17:11,805 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:17:12,613 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 02:17:12,614 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 02:19:12,681 INFO ====== WebDriver manager ======
+2025-08-19 02:19:13,153 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:19:13,705 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:19:14,302 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 02:19:14,303 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 02:21:14,365 INFO ====== WebDriver manager ======
+2025-08-19 02:21:14,846 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:21:15,408 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:21:15,967 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 02:21:15,967 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 02:23:16,019 INFO ====== WebDriver manager ======
+2025-08-19 02:23:16,503 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:23:17,061 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:23:17,773 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 02:23:17,773 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 02:25:17,828 INFO ====== WebDriver manager ======
+2025-08-19 02:25:18,320 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:25:19,425 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:25:20,692 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 02:25:20,693 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 02:27:20,752 INFO ====== WebDriver manager ======
+2025-08-19 02:27:21,215 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:27:21,805 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:27:22,364 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 02:27:22,364 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 02:29:22,415 INFO ====== WebDriver manager ======
+2025-08-19 02:29:22,876 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:29:23,619 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:29:24,609 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 02:29:24,609 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 02:31:24,659 INFO ====== WebDriver manager ======
+2025-08-19 02:31:25,120 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:31:25,688 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:31:26,260 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 02:31:26,261 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 02:33:26,318 INFO ====== WebDriver manager ======
+2025-08-19 02:33:26,780 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:33:27,331 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:33:27,888 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 02:33:27,889 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 02:35:27,948 INFO ====== WebDriver manager ======
+2025-08-19 02:35:28,406 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:35:29,369 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:35:30,092 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 02:35:30,092 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 02:37:30,142 INFO ====== WebDriver manager ======
+2025-08-19 02:37:30,614 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:37:31,172 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:37:31,920 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 02:37:31,921 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 02:39:31,974 INFO ====== WebDriver manager ======
+2025-08-19 02:39:32,460 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:39:33,015 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:39:33,760 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 02:39:33,761 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 02:41:33,813 INFO ====== WebDriver manager ======
+2025-08-19 02:41:34,280 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:41:34,823 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:41:35,394 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 02:41:35,395 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 02:43:35,454 INFO ====== WebDriver manager ======
+2025-08-19 02:43:35,943 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:43:36,484 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:43:37,044 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 02:43:37,046 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 02:45:37,100 INFO ====== WebDriver manager ======
+2025-08-19 02:45:37,576 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:45:38,382 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:45:39,358 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 02:45:39,359 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 02:47:39,409 INFO ====== WebDriver manager ======
+2025-08-19 02:47:39,881 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:47:40,433 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:47:40,995 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 02:47:40,996 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 02:49:41,058 INFO ====== WebDriver manager ======
+2025-08-19 02:49:41,539 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:49:42,304 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:49:43,557 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 02:49:43,558 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 02:51:43,607 INFO ====== WebDriver manager ======
+2025-08-19 02:51:44,089 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:51:44,647 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:51:45,451 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 02:51:45,451 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 02:53:45,508 INFO ====== WebDriver manager ======
+2025-08-19 02:53:45,974 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:53:46,544 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:53:47,124 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 02:53:47,125 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 02:55:47,181 INFO ====== WebDriver manager ======
+2025-08-19 02:55:47,671 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:55:48,812 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:55:49,361 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 02:55:49,361 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 02:57:49,413 INFO ====== WebDriver manager ======
+2025-08-19 02:57:49,899 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:57:50,447 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:57:51,428 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 02:57:51,430 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 02:59:51,482 INFO ====== WebDriver manager ======
+2025-08-19 02:59:51,943 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:59:53,018 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 02:59:53,771 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 02:59:53,772 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 03:01:53,828 INFO ====== WebDriver manager ======
+2025-08-19 03:01:54,345 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:01:54,914 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:01:55,474 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 03:01:55,476 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 03:03:55,547 INFO ====== WebDriver manager ======
+2025-08-19 03:03:56,027 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:03:56,841 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:03:58,096 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 03:03:58,097 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 03:05:58,163 INFO ====== WebDriver manager ======
+2025-08-19 03:05:58,652 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:05:59,205 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:05:59,785 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 03:05:59,786 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 03:07:59,839 INFO ====== WebDriver manager ======
+2025-08-19 03:08:00,340 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:08:01,707 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:08:02,610 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 03:08:02,611 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 03:10:02,663 INFO ====== WebDriver manager ======
+2025-08-19 03:10:03,145 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:10:03,825 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:10:04,670 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 03:10:04,670 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 03:12:04,723 INFO ====== WebDriver manager ======
+2025-08-19 03:12:05,227 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:12:05,985 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:12:07,289 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 03:12:07,290 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 03:14:07,340 INFO ====== WebDriver manager ======
+2025-08-19 03:14:07,799 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:14:08,373 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:14:08,973 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 03:14:08,973 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 03:16:09,030 INFO ====== WebDriver manager ======
+2025-08-19 03:16:09,502 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:16:10,093 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:16:10,725 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 03:16:10,727 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 03:18:10,777 INFO ====== WebDriver manager ======
+2025-08-19 03:18:11,263 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:18:11,825 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:18:12,388 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 03:18:12,389 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 03:20:12,442 INFO ====== WebDriver manager ======
+2025-08-19 03:20:12,931 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:20:13,471 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:20:14,201 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 03:20:14,201 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 03:22:14,253 INFO ====== WebDriver manager ======
+2025-08-19 03:22:14,712 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:22:15,554 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:22:16,106 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 03:22:16,106 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 03:24:16,159 INFO ====== WebDriver manager ======
+2025-08-19 03:24:16,617 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:24:17,168 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:24:17,723 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 03:24:17,723 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 03:26:17,776 INFO ====== WebDriver manager ======
+2025-08-19 03:26:18,245 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:26:19,004 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:26:19,557 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 03:26:19,557 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 03:28:19,609 INFO ====== WebDriver manager ======
+2025-08-19 03:28:20,101 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:28:21,679 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:28:22,293 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 03:28:22,294 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 03:30:22,342 INFO ====== WebDriver manager ======
+2025-08-19 03:30:22,804 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:30:23,367 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:30:23,922 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 03:30:23,924 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 03:32:23,980 INFO ====== WebDriver manager ======
+2025-08-19 03:32:24,430 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:32:25,032 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:32:25,589 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 03:32:25,590 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 03:34:25,642 INFO ====== WebDriver manager ======
+2025-08-19 03:34:26,125 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:34:26,688 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:34:27,505 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 03:34:27,506 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 03:36:27,560 INFO ====== WebDriver manager ======
+2025-08-19 03:36:28,023 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:36:28,562 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:36:30,544 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 03:36:30,544 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 03:38:30,604 INFO ====== WebDriver manager ======
+2025-08-19 03:38:31,071 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:38:31,654 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:38:32,239 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 03:38:32,240 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 03:40:32,294 INFO ====== WebDriver manager ======
+2025-08-19 03:40:32,758 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:40:33,380 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:40:33,944 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 03:40:33,945 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 03:42:34,002 INFO ====== WebDriver manager ======
+2025-08-19 03:42:34,491 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:42:35,114 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:42:36,803 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 03:42:36,804 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 03:44:36,867 INFO ====== WebDriver manager ======
+2025-08-19 03:44:37,356 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:44:38,179 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:44:39,039 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 03:44:39,040 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 03:46:39,094 INFO ====== WebDriver manager ======
+2025-08-19 03:46:39,567 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:46:40,546 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:46:41,197 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 03:46:41,198 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 03:48:41,249 INFO ====== WebDriver manager ======
+2025-08-19 03:48:41,721 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:48:42,321 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:48:43,146 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 03:48:43,146 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 03:50:43,200 INFO ====== WebDriver manager ======
+2025-08-19 03:50:43,677 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:50:44,792 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:50:45,347 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 03:50:45,347 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 03:52:45,399 INFO ====== WebDriver manager ======
+2025-08-19 03:52:45,889 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:52:46,460 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:52:47,018 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 03:52:47,019 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 03:54:47,070 INFO ====== WebDriver manager ======
+2025-08-19 03:54:47,525 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:54:48,110 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:54:48,664 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 03:54:48,665 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 03:56:48,716 INFO ====== WebDriver manager ======
+2025-08-19 03:56:49,182 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:56:50,351 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:56:50,932 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 03:56:50,932 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 03:58:50,987 INFO ====== WebDriver manager ======
+2025-08-19 03:58:51,455 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:58:52,013 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 03:58:52,801 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 03:58:52,802 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 04:00:52,849 INFO ====== WebDriver manager ======
+2025-08-19 04:00:53,338 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:00:53,906 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:00:54,524 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 04:00:54,524 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 04:02:54,576 INFO ====== WebDriver manager ======
+2025-08-19 04:02:55,029 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:02:55,587 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:02:56,397 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 04:02:56,398 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 04:04:56,455 INFO ====== WebDriver manager ======
+2025-08-19 04:04:56,920 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:04:58,692 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:04:59,515 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 04:04:59,517 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 04:06:59,569 INFO ====== WebDriver manager ======
+2025-08-19 04:07:00,063 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:07:00,661 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:07:01,213 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 04:07:01,213 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 04:09:01,260 INFO ====== WebDriver manager ======
+2025-08-19 04:09:01,724 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:09:02,294 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:09:02,898 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 04:09:02,898 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 04:11:02,956 INFO ====== WebDriver manager ======
+2025-08-19 04:11:03,435 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:11:03,999 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:11:04,555 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 04:11:04,557 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 04:13:04,604 INFO ====== WebDriver manager ======
+2025-08-19 04:13:05,081 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:13:06,023 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:13:06,575 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 04:13:06,576 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 04:15:06,628 INFO ====== WebDriver manager ======
+2025-08-19 04:15:07,089 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:15:07,912 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:15:08,548 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 04:15:08,549 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 04:17:08,601 INFO ====== WebDriver manager ======
+2025-08-19 04:17:09,089 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:17:09,653 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:17:10,216 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 04:17:10,217 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 04:19:10,269 INFO ====== WebDriver manager ======
+2025-08-19 04:19:10,724 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:19:11,282 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:19:11,838 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 04:19:11,838 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 04:21:11,897 INFO ====== WebDriver manager ======
+2025-08-19 04:21:12,380 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:21:12,941 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:21:13,680 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 04:21:13,680 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 04:23:13,731 INFO ====== WebDriver manager ======
+2025-08-19 04:23:14,219 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:23:14,780 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:23:15,779 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 04:23:15,779 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 04:25:15,828 INFO ====== WebDriver manager ======
+2025-08-19 04:25:16,314 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:25:17,542 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:25:18,307 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 04:25:18,307 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 04:27:18,359 INFO ====== WebDriver manager ======
+2025-08-19 04:27:18,835 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:27:19,435 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:27:19,992 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 04:27:19,993 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 04:29:20,049 INFO ====== WebDriver manager ======
+2025-08-19 04:29:20,506 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:29:21,052 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:29:21,599 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 04:29:21,600 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 04:31:21,652 INFO ====== WebDriver manager ======
+2025-08-19 04:31:22,131 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:31:22,690 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:31:23,246 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 04:31:23,247 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 04:33:23,297 INFO ====== WebDriver manager ======
+2025-08-19 04:33:23,779 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:33:24,970 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:33:26,355 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 04:33:26,355 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 04:35:26,411 INFO ====== WebDriver manager ======
+2025-08-19 04:35:26,896 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:35:27,459 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:35:28,016 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 04:35:28,017 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 04:37:28,070 INFO ====== WebDriver manager ======
+2025-08-19 04:37:28,557 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:37:29,136 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:37:29,719 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 04:37:29,720 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 04:39:29,771 INFO ====== WebDriver manager ======
+2025-08-19 04:39:30,227 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:39:30,784 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:39:31,339 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 04:39:31,340 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 04:41:31,389 INFO ====== WebDriver manager ======
+2025-08-19 04:41:31,881 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:41:32,433 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:41:33,266 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 04:41:33,267 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 04:43:33,323 INFO ====== WebDriver manager ======
+2025-08-19 04:43:33,823 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:43:34,378 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:43:35,344 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 04:43:35,344 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 04:45:35,404 INFO ====== WebDriver manager ======
+2025-08-19 04:45:35,894 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:45:36,438 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:45:37,003 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 04:45:37,005 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 04:47:37,060 INFO ====== WebDriver manager ======
+2025-08-19 04:47:37,528 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:47:38,076 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:47:38,625 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 04:47:38,626 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 04:49:38,681 INFO ====== WebDriver manager ======
+2025-08-19 04:49:39,151 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:49:40,979 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:49:41,546 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 04:49:41,546 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 04:51:41,597 INFO ====== WebDriver manager ======
+2025-08-19 04:51:42,065 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:51:42,675 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:51:43,220 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 04:51:43,221 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 04:53:43,272 INFO ====== WebDriver manager ======
+2025-08-19 04:53:43,750 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:53:44,818 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:53:45,365 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 04:53:45,366 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 04:55:45,411 INFO ====== WebDriver manager ======
+2025-08-19 04:55:45,886 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:55:46,438 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:55:47,178 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 04:55:47,178 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 04:57:47,236 INFO ====== WebDriver manager ======
+2025-08-19 04:57:47,719 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:57:48,267 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:57:48,984 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 04:57:48,984 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 04:59:49,036 INFO ====== WebDriver manager ======
+2025-08-19 04:59:49,524 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:59:51,072 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 04:59:51,686 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 04:59:51,687 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 05:01:51,742 INFO ====== WebDriver manager ======
+2025-08-19 05:01:52,228 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:01:52,769 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:01:53,328 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 05:01:53,329 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 05:03:53,382 INFO ====== WebDriver manager ======
+2025-08-19 05:03:53,849 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:03:54,711 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:03:55,563 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 05:03:55,563 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 05:05:55,621 INFO ====== WebDriver manager ======
+2025-08-19 05:05:56,103 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:05:56,775 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:05:57,339 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 05:05:57,339 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 05:07:57,399 INFO ====== WebDriver manager ======
+2025-08-19 05:07:57,885 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:07:58,607 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:07:59,332 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 05:07:59,332 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 05:09:59,386 INFO ====== WebDriver manager ======
+2025-08-19 05:09:59,873 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:10:00,440 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:10:00,986 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 05:10:00,987 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 05:12:01,036 INFO ====== WebDriver manager ======
+2025-08-19 05:12:01,521 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:12:02,085 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:12:02,657 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 05:12:02,657 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 05:14:02,715 INFO ====== WebDriver manager ======
+2025-08-19 05:14:03,207 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:14:03,764 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:14:04,310 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 05:14:04,310 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 05:16:04,358 INFO ====== WebDriver manager ======
+2025-08-19 05:16:04,814 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:16:05,456 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:16:06,036 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 05:16:06,036 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 05:18:06,090 INFO ====== WebDriver manager ======
+2025-08-19 05:18:06,572 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:18:07,627 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:18:08,183 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 05:18:08,184 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 05:20:08,236 INFO ====== WebDriver manager ======
+2025-08-19 05:20:08,697 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:20:10,367 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:20:11,099 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 05:20:11,099 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 05:22:11,150 INFO ====== WebDriver manager ======
+2025-08-19 05:22:11,628 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:22:12,198 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:22:12,746 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 05:22:12,746 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 05:24:12,796 INFO ====== WebDriver manager ======
+2025-08-19 05:24:13,276 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:24:13,820 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:24:14,372 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 05:24:14,374 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 05:26:14,431 INFO ====== WebDriver manager ======
+2025-08-19 05:26:14,906 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:26:15,454 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:26:16,028 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 05:26:16,029 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 05:28:16,078 INFO ====== WebDriver manager ======
+2025-08-19 05:28:16,555 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:28:17,263 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:28:17,808 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 05:28:17,808 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 05:30:17,860 INFO ====== WebDriver manager ======
+2025-08-19 05:30:18,315 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:30:18,867 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:30:19,588 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 05:30:19,589 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 05:32:19,645 INFO ====== WebDriver manager ======
+2025-08-19 05:32:20,141 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:32:20,693 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:32:21,247 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 05:32:21,247 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 05:34:21,302 INFO ====== WebDriver manager ======
+2025-08-19 05:34:21,790 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:34:22,510 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:34:23,224 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 05:34:23,224 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 05:36:23,284 INFO ====== WebDriver manager ======
+2025-08-19 05:36:23,777 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:36:24,314 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:36:24,850 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 05:36:24,850 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 05:38:24,906 INFO ====== WebDriver manager ======
+2025-08-19 05:38:25,388 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:38:26,099 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:38:26,680 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 05:38:26,681 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 05:40:26,735 INFO ====== WebDriver manager ======
+2025-08-19 05:40:27,207 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:40:28,261 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:40:28,807 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 05:40:28,807 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 05:42:28,855 INFO ====== WebDriver manager ======
+2025-08-19 05:42:29,343 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:42:29,894 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:42:30,902 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 05:42:30,902 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 05:44:30,956 INFO ====== WebDriver manager ======
+2025-08-19 05:44:31,425 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:44:32,015 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:44:32,587 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 05:44:32,587 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 05:46:32,647 INFO ====== WebDriver manager ======
+2025-08-19 05:46:33,104 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:46:33,663 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:46:34,215 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 05:46:34,215 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 05:48:34,268 INFO ====== WebDriver manager ======
+2025-08-19 05:48:34,761 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:48:35,294 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:48:35,846 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 05:48:35,847 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 05:50:35,900 INFO ====== WebDriver manager ======
+2025-08-19 05:50:36,386 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:50:36,923 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:50:37,486 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 05:50:37,488 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 05:52:37,543 INFO ====== WebDriver manager ======
+2025-08-19 05:52:38,010 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:52:38,556 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:52:39,122 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 05:52:39,122 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 05:54:39,176 INFO ====== WebDriver manager ======
+2025-08-19 05:54:39,636 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:54:40,339 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:54:40,892 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 05:54:40,893 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 05:56:40,945 INFO ====== WebDriver manager ======
+2025-08-19 05:56:41,428 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:56:41,977 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:56:42,879 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 05:56:42,879 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 05:58:42,930 INFO ====== WebDriver manager ======
+2025-08-19 05:58:43,407 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:58:43,955 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 05:58:44,895 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 05:58:44,896 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 06:00:44,948 INFO ====== WebDriver manager ======
+2025-08-19 06:00:45,422 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:00:45,964 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:00:46,506 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 06:00:46,506 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 06:02:46,563 INFO ====== WebDriver manager ======
+2025-08-19 06:02:47,049 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:02:47,593 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:02:48,139 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 06:02:48,139 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 06:04:48,190 INFO ====== WebDriver manager ======
+2025-08-19 06:04:48,665 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:04:49,411 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:04:49,957 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 06:04:49,959 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 06:06:50,017 INFO ====== WebDriver manager ======
+2025-08-19 06:06:50,477 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:06:51,051 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:06:51,606 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 06:06:51,606 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 06:08:51,657 INFO ====== WebDriver manager ======
+2025-08-19 06:08:52,138 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:08:52,688 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:08:53,234 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 06:08:53,235 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 06:10:53,290 INFO ====== WebDriver manager ======
+2025-08-19 06:10:53,772 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:10:54,815 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:10:55,818 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 06:10:55,819 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 06:12:55,874 INFO ====== WebDriver manager ======
+2025-08-19 06:12:56,344 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:12:56,916 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:12:57,521 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 06:12:57,521 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 06:14:57,578 INFO ====== WebDriver manager ======
+2025-08-19 06:14:58,064 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:14:58,605 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:14:59,144 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 06:14:59,146 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 06:16:59,193 INFO ====== WebDriver manager ======
+2025-08-19 06:16:59,684 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:17:00,341 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:17:00,889 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 06:17:00,891 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 06:19:00,942 INFO ====== WebDriver manager ======
+2025-08-19 06:19:01,414 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:19:01,964 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:19:02,538 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 06:19:02,538 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 06:21:02,591 INFO ====== WebDriver manager ======
+2025-08-19 06:21:03,077 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:21:03,632 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:21:04,194 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 06:21:04,194 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 06:23:04,247 INFO ====== WebDriver manager ======
+2025-08-19 06:23:04,709 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:23:05,530 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:23:06,266 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 06:23:06,267 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 06:25:06,316 INFO ====== WebDriver manager ======
+2025-08-19 06:25:06,776 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:25:07,983 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:25:08,532 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 06:25:08,533 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 06:27:08,583 INFO ====== WebDriver manager ======
+2025-08-19 06:27:09,058 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:27:10,312 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:27:10,885 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 06:27:10,885 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 06:29:10,941 INFO ====== WebDriver manager ======
+2025-08-19 06:29:11,412 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:29:11,968 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:29:12,509 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 06:29:12,509 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 06:31:12,564 INFO ====== WebDriver manager ======
+2025-08-19 06:31:13,042 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:31:13,760 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:31:14,677 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 06:31:14,677 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 06:33:14,731 INFO ====== WebDriver manager ======
+2025-08-19 06:33:15,213 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:33:15,772 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:33:16,836 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 06:33:16,838 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 06:35:16,896 INFO ====== WebDriver manager ======
+2025-08-19 06:35:17,382 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:35:18,137 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:35:18,691 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 06:35:18,692 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 06:37:18,751 INFO ====== WebDriver manager ======
+2025-08-19 06:37:19,223 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:37:19,783 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:37:20,333 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 06:37:20,334 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 06:39:20,390 INFO ====== WebDriver manager ======
+2025-08-19 06:39:20,851 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:39:21,403 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:39:21,955 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 06:39:21,955 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 06:41:22,004 INFO ====== WebDriver manager ======
+2025-08-19 06:41:22,485 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:41:23,032 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:41:23,582 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 06:41:23,583 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 06:43:23,637 INFO ====== WebDriver manager ======
+2025-08-19 06:43:24,104 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:43:24,649 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:43:25,221 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 06:43:25,222 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 06:45:25,270 INFO ====== WebDriver manager ======
+2025-08-19 06:45:25,732 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:45:26,280 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:45:26,842 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 06:45:26,844 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 06:47:26,899 INFO ====== WebDriver manager ======
+2025-08-19 06:47:27,384 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:47:27,939 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:47:28,514 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 06:47:28,515 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 06:49:28,567 INFO ====== WebDriver manager ======
+2025-08-19 06:49:29,062 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:49:29,660 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:49:30,222 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 06:49:30,222 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 06:51:30,277 INFO ====== WebDriver manager ======
+2025-08-19 06:51:30,736 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:51:31,290 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:51:31,839 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 06:51:31,840 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 06:53:31,894 INFO ====== WebDriver manager ======
+2025-08-19 06:53:32,374 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:53:33,424 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:53:33,990 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 06:53:33,992 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 06:55:34,044 INFO ====== WebDriver manager ======
+2025-08-19 06:55:34,499 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:55:35,049 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:55:35,584 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 06:55:35,584 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 06:57:35,636 INFO ====== WebDriver manager ======
+2025-08-19 06:57:36,106 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:57:36,672 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:57:37,227 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 06:57:37,229 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 06:59:37,276 INFO ====== WebDriver manager ======
+2025-08-19 06:59:37,742 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:59:38,285 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 06:59:38,845 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 06:59:38,846 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 07:01:38,904 INFO ====== WebDriver manager ======
+2025-08-19 07:01:39,389 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:01:39,935 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:01:40,481 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 07:01:40,483 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 07:03:40,536 INFO ====== WebDriver manager ======
+2025-08-19 07:03:41,014 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:03:41,579 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:03:42,145 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 07:03:42,146 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 07:05:42,199 INFO ====== WebDriver manager ======
+2025-08-19 07:05:42,689 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:05:43,251 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:05:43,795 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 07:05:43,795 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 07:07:43,847 INFO ====== WebDriver manager ======
+2025-08-19 07:07:44,307 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:07:44,861 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:07:45,411 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 07:07:45,412 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 07:09:45,466 INFO ====== WebDriver manager ======
+2025-08-19 07:09:45,952 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:09:46,500 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:09:47,965 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 07:09:47,965 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 07:11:48,019 INFO ====== WebDriver manager ======
+2025-08-19 07:11:48,481 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:11:49,034 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:11:49,591 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 07:11:49,591 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 07:13:49,643 INFO ====== WebDriver manager ======
+2025-08-19 07:13:50,117 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:13:50,662 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:13:51,228 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 07:13:51,229 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 07:15:51,282 INFO ====== WebDriver manager ======
+2025-08-19 07:15:51,741 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:15:52,289 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:15:52,840 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 07:15:52,840 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 07:17:52,898 INFO ====== WebDriver manager ======
+2025-08-19 07:17:53,384 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:17:54,031 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:17:54,581 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 07:17:54,581 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 07:19:54,632 INFO ====== WebDriver manager ======
+2025-08-19 07:19:55,118 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:19:55,666 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:19:56,209 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 07:19:56,210 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 07:21:56,262 INFO ====== WebDriver manager ======
+2025-08-19 07:21:56,752 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:21:57,302 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:21:57,850 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 07:21:57,850 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 07:23:57,919 INFO ====== WebDriver manager ======
+2025-08-19 07:23:58,478 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:23:59,012 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:23:59,559 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 07:23:59,560 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 07:25:59,626 INFO ====== WebDriver manager ======
+2025-08-19 07:26:00,114 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:26:00,658 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:26:01,196 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 07:26:01,196 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 07:28:01,263 INFO ====== WebDriver manager ======
+2025-08-19 07:28:01,757 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:28:02,298 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:28:02,861 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 07:28:02,862 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 07:30:02,931 INFO ====== WebDriver manager ======
+2025-08-19 07:30:03,416 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:30:04,138 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:30:04,691 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 07:30:04,691 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 07:32:04,754 INFO ====== WebDriver manager ======
+2025-08-19 07:32:05,230 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:32:05,776 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:32:06,338 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 07:32:06,338 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 07:34:06,404 INFO ====== WebDriver manager ======
+2025-08-19 07:34:06,894 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:34:07,464 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:34:08,544 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 07:34:08,544 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 07:36:08,603 INFO ====== WebDriver manager ======
+2025-08-19 07:36:09,094 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:36:09,640 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:36:10,204 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 07:36:10,206 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 07:38:10,254 INFO ====== WebDriver manager ======
+2025-08-19 07:38:10,719 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:38:11,274 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:38:11,816 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 07:38:11,816 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 07:40:11,872 INFO ====== WebDriver manager ======
+2025-08-19 07:40:12,354 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:40:12,896 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:40:13,439 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 07:40:13,440 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 07:42:13,492 INFO ====== WebDriver manager ======
+2025-08-19 07:42:14,002 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:42:14,554 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:42:15,105 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 07:42:15,105 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 07:44:15,158 INFO ====== WebDriver manager ======
+2025-08-19 07:44:15,617 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:44:16,180 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:44:16,959 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 07:44:16,960 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 07:46:17,014 INFO ====== WebDriver manager ======
+2025-08-19 07:46:17,487 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:46:18,513 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:46:19,061 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 07:46:19,061 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 07:48:19,111 INFO ====== WebDriver manager ======
+2025-08-19 07:48:19,599 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:48:20,626 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:48:21,173 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 07:48:21,175 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 07:50:21,227 INFO ====== WebDriver manager ======
+2025-08-19 07:50:21,684 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:50:22,227 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:50:22,772 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 07:50:22,773 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 07:52:22,828 INFO ====== WebDriver manager ======
+2025-08-19 07:52:23,310 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:52:23,868 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:52:24,415 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 07:52:24,416 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 07:54:24,467 INFO ====== WebDriver manager ======
+2025-08-19 07:54:24,927 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:54:25,472 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:54:26,034 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 07:54:26,034 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 07:56:26,104 INFO ====== WebDriver manager ======
+2025-08-19 07:56:26,595 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:56:27,138 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:56:27,688 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 07:56:27,689 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 07:58:27,756 INFO ====== WebDriver manager ======
+2025-08-19 07:58:28,263 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:58:28,826 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 07:58:29,369 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 07:58:29,369 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 08:00:29,436 INFO ====== WebDriver manager ======
+2025-08-19 08:00:29,928 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:00:30,996 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:00:31,535 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 08:00:31,536 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 08:02:31,601 INFO ====== WebDriver manager ======
+2025-08-19 08:02:32,066 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:02:32,618 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:02:33,334 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 08:02:33,334 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 08:04:33,400 INFO ====== WebDriver manager ======
+2025-08-19 08:04:33,881 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:04:34,423 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:04:34,970 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 08:04:34,970 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 08:06:35,036 INFO ====== WebDriver manager ======
+2025-08-19 08:06:35,502 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:06:36,063 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:06:36,608 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 08:06:36,608 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 08:08:36,669 INFO ====== WebDriver manager ======
+2025-08-19 08:08:37,142 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:08:37,725 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:08:38,299 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 08:08:38,301 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 08:10:38,365 INFO ====== WebDriver manager ======
+2025-08-19 08:10:38,827 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:10:39,403 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:10:39,954 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 08:10:39,954 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 08:12:40,019 INFO ====== WebDriver manager ======
+2025-08-19 08:12:40,502 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:12:41,049 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:12:41,594 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 08:12:41,594 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 08:14:20,430 INFO ====== WebDriver manager ======
+2025-08-19 08:14:20,897 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:14:21,446 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:14:22,009 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 08:14:22,016 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 08:17:11,519 INFO ====== WebDriver manager ======
+2025-08-19 08:17:12,002 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:17:12,563 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:17:13,103 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 08:17:13,106 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 08:19:13,171 INFO ====== WebDriver manager ======
+2025-08-19 08:19:13,657 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:19:14,327 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:19:14,872 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 08:19:14,873 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 08:21:14,937 INFO ====== WebDriver manager ======
+2025-08-19 08:21:15,416 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:21:15,969 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:21:16,527 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 08:21:16,527 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 08:23:16,588 INFO ====== WebDriver manager ======
+2025-08-19 08:23:17,054 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:23:17,596 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:23:18,156 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 08:23:18,157 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 08:25:18,231 INFO ====== WebDriver manager ======
+2025-08-19 08:25:18,727 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:25:19,281 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:25:19,829 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 08:25:19,830 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 08:27:19,898 INFO ====== WebDriver manager ======
+2025-08-19 08:27:20,417 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:27:20,963 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:27:21,506 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 08:27:21,508 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 08:29:21,575 INFO ====== WebDriver manager ======
+2025-08-19 08:29:22,102 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:29:22,647 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:29:23,202 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 08:29:23,202 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 08:31:23,263 INFO ====== WebDriver manager ======
+2025-08-19 08:31:23,723 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:31:24,272 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:31:25,474 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 08:31:25,475 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 08:33:25,544 INFO ====== WebDriver manager ======
+2025-08-19 08:33:26,040 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:33:26,608 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:33:27,174 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 08:33:27,175 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 08:35:27,239 INFO ====== WebDriver manager ======
+2025-08-19 08:35:27,729 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:35:28,269 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:35:28,818 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 08:35:28,818 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 08:37:28,886 INFO ====== WebDriver manager ======
+2025-08-19 08:37:29,390 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:37:29,936 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:37:30,690 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 08:37:30,691 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 08:39:30,757 INFO ====== WebDriver manager ======
+2025-08-19 08:39:31,278 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:39:32,097 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:39:33,598 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 08:39:33,599 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 08:41:33,663 INFO ====== WebDriver manager ======
+2025-08-19 08:41:34,183 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:41:34,738 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:41:36,283 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 08:41:36,283 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 08:43:36,343 INFO ====== WebDriver manager ======
+2025-08-19 08:43:36,850 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:43:37,409 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:43:37,970 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 08:43:37,970 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 08:45:38,042 INFO ====== WebDriver manager ======
+2025-08-19 08:45:38,567 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:45:39,116 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:45:40,104 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 08:45:40,104 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 08:47:40,171 INFO ====== WebDriver manager ======
+2025-08-19 08:47:40,679 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:47:41,222 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:47:41,977 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 08:47:41,978 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 08:49:42,044 INFO ====== WebDriver manager ======
+2025-08-19 08:49:42,591 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:49:44,158 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:49:44,882 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 08:49:44,883 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 08:51:44,951 INFO ====== WebDriver manager ======
+2025-08-19 08:51:45,466 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:51:46,037 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:51:46,600 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 08:51:46,600 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 08:53:46,665 INFO ====== WebDriver manager ======
+2025-08-19 08:53:47,215 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:53:47,981 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:53:48,554 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 08:53:48,554 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 08:55:48,620 INFO ====== WebDriver manager ======
+2025-08-19 08:55:49,193 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:55:49,734 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:55:50,272 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 08:55:50,273 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 08:57:50,344 INFO ====== WebDriver manager ======
+2025-08-19 08:57:50,883 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:57:51,448 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:57:51,995 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 08:57:51,996 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 08:59:52,065 INFO ====== WebDriver manager ======
+2025-08-19 08:59:52,588 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:59:53,134 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 08:59:53,674 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 08:59:53,674 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 09:01:53,746 INFO ====== WebDriver manager ======
+2025-08-19 09:01:54,289 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 09:01:54,837 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 09:01:55,375 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 09:01:55,376 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 09:03:55,448 INFO ====== WebDriver manager ======
+2025-08-19 09:03:55,979 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 09:03:56,525 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 09:03:57,654 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 09:03:57,655 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 09:05:57,725 INFO ====== WebDriver manager ======
+2025-08-19 09:05:58,263 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 09:05:59,973 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 09:06:00,510 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 09:06:00,510 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 09:08:00,577 INFO ====== WebDriver manager ======
+2025-08-19 09:08:01,108 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 09:08:01,658 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 09:08:02,267 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 09:08:02,267 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 09:10:02,336 INFO ====== WebDriver manager ======
+2025-08-19 09:10:02,867 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 09:10:03,420 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 09:10:03,990 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 09:10:03,991 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 09:12:04,066 INFO ====== WebDriver manager ======
+2025-08-19 09:12:04,670 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 09:12:05,214 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 09:12:05,762 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 09:12:05,763 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 09:14:05,830 INFO ====== WebDriver manager ======
+2025-08-19 09:14:06,401 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 09:14:06,945 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 09:14:07,506 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 09:14:07,507 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 09:16:07,575 INFO ====== WebDriver manager ======
+2025-08-19 09:16:08,112 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 09:16:08,827 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 09:16:09,381 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 09:16:09,381 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 09:18:09,441 INFO ====== WebDriver manager ======
+2025-08-19 09:18:09,954 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 09:18:10,532 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 09:18:11,069 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 09:18:11,070 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 09:20:11,132 INFO ====== WebDriver manager ======
+2025-08-19 09:20:11,682 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 09:20:12,449 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 09:20:12,990 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 09:20:12,991 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 09:22:13,064 INFO ====== WebDriver manager ======
+2025-08-19 09:22:13,620 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 09:22:14,209 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 09:22:14,752 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 09:22:14,752 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 09:24:14,823 INFO ====== WebDriver manager ======
+2025-08-19 09:24:15,402 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 09:24:15,958 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 09:24:16,508 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 09:24:16,508 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 09:26:16,579 INFO ====== WebDriver manager ======
+2025-08-19 09:26:17,126 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 09:26:18,365 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 09:26:18,929 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 09:26:18,929 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 09:28:19,002 INFO ====== WebDriver manager ======
+2025-08-19 09:28:19,527 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 09:28:20,071 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 09:28:20,616 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 09:28:20,617 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 09:30:20,692 INFO ====== WebDriver manager ======
+2025-08-19 09:30:21,230 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 09:30:21,775 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 09:30:23,071 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 09:30:23,072 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-19 09:32:23,146 INFO ====== WebDriver manager ======
+2025-08-19 09:32:23,690 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 09:32:24,236 INFO Get LATEST chromedriver version for google-chrome
+2025-08-19 09:32:24,798 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 09:32:24,798 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
