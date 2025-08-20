@@ -3,6 +3,7 @@ import json
 import threading
 import time
 import logging
+import os
 from main_ui import MainUI
 from scraper import CrowdWorksScraper
 from filter import JobFilter
@@ -11,7 +12,7 @@ from PyQt5.QtWidgets import QApplication
 
 CONFIG_FILE = 'config.json'
 LOG_FILE = 'logs/app.log'
-
+os.makedirs(os.path.dirname(LOG_FILE), exist_ok=True)
 logging.basicConfig(filename=LOG_FILE, level=logging.INFO, format='%(asctime)s %(levelname)s %(message)s')
 
 def load_config():
@@ -89,7 +90,6 @@ def main():
     ui.stop_btn.clicked.connect(stop)
     ui.show()
     sys.exit(app.exec_())
-
 
 if __name__ == '__main__':
     main()

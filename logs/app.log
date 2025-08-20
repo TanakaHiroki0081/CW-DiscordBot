@@ -1085,3 +1085,41 @@
 2025-08-19 09:32:24,236 INFO Get LATEST chromedriver version for google-chrome
 2025-08-19 09:32:24,798 INFO Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
 2025-08-19 09:32:24,798 ERROR Error: WebDriver.__init__() got multiple values for argument 'options'
+2025-08-20 09:29:47,920 INFO ====== WebDriver manager ======
+2025-08-20 09:29:48,428 INFO Get LATEST chromedriver version for google-chrome
+2025-08-20 09:29:49,198 INFO Get LATEST chromedriver version for google-chrome
+2025-08-20 09:29:49,774 INFO There is no [win64] chromedriver "139.0.7258.138" for browser google-chrome "139.0.7258" in cache
+2025-08-20 09:29:49,774 INFO Get LATEST chromedriver version for google-chrome
+2025-08-20 09:29:51,229 INFO WebDriver version 139.0.7258.138 selected
+2025-08-20 09:29:51,234 INFO Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/139.0.7258.138/win32/chromedriver-win32.zip
+2025-08-20 09:29:51,234 INFO About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/139.0.7258.138/win32/chromedriver-win32.zip
+2025-08-20 09:29:52,135 INFO Driver downloading response is 200
+2025-08-20 09:30:11,149 INFO Get LATEST chromedriver version for google-chrome
+2025-08-20 09:30:12,362 INFO Driver has been saved in cache [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\139.0.7258.138]
+2025-08-20 09:30:19,678 ERROR Error: Message: session not created: This version of ChromeDriver only supports Chrome version 139
+Current browser version is 103.0.5060.114 with binary path C:\Users\Administrator\AppData\Local\Google\Chrome\Application\chrome.exe; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0xd6ffc3+65331]
+	GetHandleVerifier [0x0xd70004+65396]
+	(No symbol) [0x0xb63f63]
+	(No symbol) [0x0xb9e03b]
+	(No symbol) [0x0xb9d059]
+	(No symbol) [0x0xb98651]
+	(No symbol) [0x0xb932f9]
+	(No symbol) [0x0xbdcfc2]
+	(No symbol) [0x0xbdc8da]
+	(No symbol) [0x0xbd12d6]
+	(No symbol) [0x0xba0910]
+	(No symbol) [0x0xba1784]
+	GetHandleVerifier [0x0xfb38b3+2439203]
+	GetHandleVerifier [0x0xfaeae2+2419282]
+	GetHandleVerifier [0x0xd9712a+225434]
+	GetHandleVerifier [0x0xd86e08+159096]
+	GetHandleVerifier [0x0xd8dd5d+187597]
+	GetHandleVerifier [0x0xd77ad8+96840]
+	GetHandleVerifier [0x0xd77c62+97234]
+	GetHandleVerifier [0x0xd6277a+9962]
+	BaseThreadInitThunk [0x0x767ffa29+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77d47a9e+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77d47a6e+238]
+

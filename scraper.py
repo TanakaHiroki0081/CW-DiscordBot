@@ -13,6 +13,7 @@ class CrowdWorksScraper:
     def fetch_jobs(self):
         options = Options()
         options.add_argument('--headless')
+        options.binary_location = r"C:\Program Files\Google\Chrome\Application\chrome.exe"
         service = Service(ChromeDriverManager().install())
         driver = webdriver.Chrome(service=service, options=options)
         driver.get(self.url)
@@ -22,11 +23,16 @@ class CrowdWorksScraper:
         if not div or not div.has_attr('data'):
             driver.quit()
             raise Exception('Could not find job data on the page.')
-        data = json.loads(div['data'])
+        data_str = div['data']
+        try:
+            data = json.loads(data_str)
+        except Exception:
+            data = json.loads(data_str.replace("'", '"'))
         driver.quit()
         jobs = []
-        for job in data.get('job_offers', []):
-            payment = job.get('hourly_payment') or job.get('fixed_price_payment')
+        for item in data.get('searchResult', {}).get('job_offers', []):
+            job = item.get('job_offer', {})
+            payment = item.get('payment', {}).get('hourly_payment') or item.get('payment', {}).get('fixed_price_payment')
             jobs.append({
                 'id': job.get('id'),
                 'title': job.get('title'),
@@ -38,12 +44,16 @@ class CrowdWorksScraper:
             })
         return jobs
 
-def main():
-    import sys
-    url = sys.argv[1] if len(sys.argv) > 1 else input('CrowdWorks URL: ')
-    scraper = CrowdWorksScraper(url)
-    jobs = scraper.fetch_jobs()
-    print(json.dumps(jobs, ensure_ascii=False, indent=2))
-
 if __name__ == '__main__':
-    main() 
+    import sys
+    url = sys.argv[1] if len(sys.argv) > 1 else "https://crowdworks.jp/public/jobs/search?category_id=226&order=new"
+    try:
+        scraper = CrowdWorksScraper(url)
+        jobs = scraper.fetch_jobs()
+        print("=== Extracted CrowdWorks Job Data ===")
+        for job in jobs:
+            print(json.dumps(job, ensure_ascii=False, indent=2))
+        if not jobs:
+            print("No jobs found.")
+    except Exception as e:
+        print(f"Error extracting data: {e}") 

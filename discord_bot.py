@@ -27,7 +27,15 @@ class DiscordJobBot:
     def format_job(self, job):
         skills = ', '.join(job.get('skills', []))
         payment = job.get('payment')
-        payment_str = f"{payment}円/時" if 'hourly' in str(payment) else f"{payment}円"
+        if isinstance(payment, dict):
+            if 'min_hourly_wage' in payment:
+                payment_str = f"{payment['min_hourly_wage']}円〜{payment.get('max_hourly_wage','?')}円/時"
+            elif 'min_budget' in payment:
+                payment_str = f"{payment['min_budget']}円〜{payment.get('max_budget','?')}円"
+            else:
+                payment_str = str(payment)
+        else:
+            payment_str = str(payment)
         return (f"Job ID: {job.get('id')}\n"
                 f"Title: {job.get('title')}\n"
                 f"Skills: {skills}\n"

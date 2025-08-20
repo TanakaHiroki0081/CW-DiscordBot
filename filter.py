@@ -22,9 +22,21 @@ class JobFilter:
         new_jobs = []
         for job in jobs:
             payment = job.get('payment')
-            if not payment or not isinstance(payment, (int, float)):
+            if not payment:
                 continue
-            if not (self.lower_price <= payment <= self.upper_price):
+            # Handle both hourly and fixed price payments
+            if isinstance(payment, dict):
+                if 'min_hourly_wage' in payment:
+                    price = payment.get('min_hourly_wage', 0)
+                elif 'min_budget' in payment:
+                    price = payment.get('min_budget', 0)
+                else:
+                    continue
+            elif isinstance(payment, (int, float)):
+                price = payment
+            else:
+                continue
+            if not (self.lower_price <= price <= self.upper_price):
                 continue
             if job['id'] in self.seen_ids:
                 continue
@@ -33,18 +45,15 @@ class JobFilter:
         self._save_seen()
         return new_jobs
 
-def main():
+if __name__ == '__main__':
     import sys
     if len(sys.argv) < 4:
         print('Usage: python filter.py jobs.json lower_price upper_price')
-        return
+        exit(1)
     with open(sys.argv[1], 'r', encoding='utf-8') as f:
         jobs = json.load(f)
     lower = int(sys.argv[2])
     upper = int(sys.argv[3])
     ftr = JobFilter(lower, upper)
     filtered = ftr.filter_jobs(jobs)
-    print(json.dumps(filtered, ensure_ascii=False, indent=2))
-
-if __name__ == '__main__':
-    main() 
+    print(json.dumps(filtered, ensure_ascii=False, indent=2)) 
